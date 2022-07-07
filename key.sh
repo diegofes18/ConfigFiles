@@ -1,3 +1,0 @@
-xmodmap -e "keysym 0xffe5 = 0xfe03"
-xmodmap -e "keysym 0xff1b = 0x5c"
-xmodmap -e "keysym 0xffe2 = 0x2d"
